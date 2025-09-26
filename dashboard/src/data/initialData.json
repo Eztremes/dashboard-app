@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": "cspm",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        { "id": "w1", "name": "Overview", "text": "Overview: Random text for demo." },
+        { "id": "w2", "name": "Alerts", "text": "Alerts: Random text for demo." }
+      ]
+    },
+    {
+      "id": "sales",
+      "name": "Sales Dashboard",
+      "widgets": [
+        { "id": "w3", "name": "Revenue", "text": "Revenue: Random text for demo." },
+        { "id": "w4", "name": "Leads", "text": "Leads: Random text for demo." }
+      ]
+    }
+  ]
+}
